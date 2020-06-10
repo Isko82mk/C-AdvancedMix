@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janev\\Desktop\\VezbiC#\\InterfacesAndAbstracts\\InterfacesAndAbstracts\\InterfacesAndAbstracts.csproj",
+      "projectUniqueName": "C:\\Users\\janev\\Desktop\\VezbiC#\\C#AdvancedMixRepo\\InterfacesAndAbstracts\\InterfacesAndAbstracts\\InterfacesAndAbstracts.csproj",
       "projectName": "InterfacesAndAbstracts",
-      "projectPath": "C:\\Users\\janev\\Desktop\\VezbiC#\\InterfacesAndAbstracts\\InterfacesAndAbstracts\\InterfacesAndAbstracts.csproj",
+      "projectPath": "C:\\Users\\janev\\Desktop\\VezbiC#\\C#AdvancedMixRepo\\InterfacesAndAbstracts\\InterfacesAndAbstracts\\InterfacesAndAbstracts.csproj",
       "packagesPath": "C:\\Users\\janev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janev\\Desktop\\VezbiC#\\InterfacesAndAbstracts\\InterfacesAndAbstracts\\obj\\",
+      "outputPath": "C:\\Users\\janev\\Desktop\\VezbiC#\\C#AdvancedMixRepo\\InterfacesAndAbstracts\\InterfacesAndAbstracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janev\\AppData\\Roaming\\NuGet\\NuGet.Config",
