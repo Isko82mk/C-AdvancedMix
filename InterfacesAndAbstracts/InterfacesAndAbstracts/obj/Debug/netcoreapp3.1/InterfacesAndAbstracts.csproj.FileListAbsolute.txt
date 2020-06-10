@@ -1,0 +1,13 @@
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\bin\Debug\netcoreapp3.1\InterfacesAndAbstracts.exe
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\bin\Debug\netcoreapp3.1\InterfacesAndAbstracts.deps.json
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\bin\Debug\netcoreapp3.1\InterfacesAndAbstracts.runtimeconfig.json
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\bin\Debug\netcoreapp3.1\InterfacesAndAbstracts.runtimeconfig.dev.json
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\bin\Debug\netcoreapp3.1\InterfacesAndAbstracts.dll
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\bin\Debug\netcoreapp3.1\InterfacesAndAbstracts.pdb
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\obj\Debug\netcoreapp3.1\InterfacesAndAbstracts.csprojAssemblyReference.cache
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\obj\Debug\netcoreapp3.1\InterfacesAndAbstracts.AssemblyInfoInputs.cache
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\obj\Debug\netcoreapp3.1\InterfacesAndAbstracts.AssemblyInfo.cs
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\obj\Debug\netcoreapp3.1\InterfacesAndAbstracts.csproj.CoreCompileInputs.cache
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\obj\Debug\netcoreapp3.1\InterfacesAndAbstracts.dll
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\obj\Debug\netcoreapp3.1\InterfacesAndAbstracts.pdb
+C:\Users\janev\Desktop\VezbiC#\InterfacesAndAbstracts\InterfacesAndAbstracts\obj\Debug\netcoreapp3.1\InterfacesAndAbstracts.genruntimeconfig.cache
